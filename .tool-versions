@@ -1,0 +1,6 @@
+direnv 2.37.1
+golang 1.25.8
+golangci-lint 2.6.0
+mage 1.15.0
+pre-commit 4.2.0
+python 3.10.4
