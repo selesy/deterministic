@@ -9,10 +9,8 @@ import (
 )
 
 func ExampleNewSlogHandler() {
-	nowFunc := deterministic.NowFunc()
 	handler := deterministic.NewSlogHandler(
 		slog.NewTextHandler(os.Stdout, nil),
-		nowFunc,
 	)
 	logger := slog.New(handler)
 
