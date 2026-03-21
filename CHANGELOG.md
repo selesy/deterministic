@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/selesy/deterministic/compare/v0.1.0...v0.2.0) (2026-03-21)
+
+
+### Features
+
+* **slog:** add a deterministic slog.Record recorder ([b42255a](https://github.com/selesy/deterministic/commit/b42255a375f67be1a65c1995fc6bcf924890d796))
+
 ## [0.1.0](https://github.com/selesy/deterministic/compare/v0.0.0...v0.1.0) (2026-03-13)
 
 
